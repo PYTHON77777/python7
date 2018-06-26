@@ -6,3 +6,5 @@ num = 555555
 
 num3 = 555
 
+
+name = 'python'
