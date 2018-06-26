@@ -10,3 +10,6 @@ num3 = 555
 name = 'python'
 
 name1 = 'aaa'
+
+
+num4 = 444
